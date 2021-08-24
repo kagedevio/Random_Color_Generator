@@ -6,4 +6,4 @@ This Project generates random quotes from [forismatic API](https://forismatic.co
 * CSS3
 * JavaScript
 
-
+[Check the demo out now on Netlify.com](https://eloquent-stonebraker-ea5c63.netlify.app/)
